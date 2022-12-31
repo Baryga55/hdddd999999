@@ -1,0 +1,96 @@
+body {
+    font-family: "Courier New";
+}
+
+body {
+    background-color: black;
+}
+
+body {
+    color: red;
+}
+
+footer{
+    margin-top: 30px;
+}
+
+div.bold{
+    font-size: 18;
+}
+
+.Eve{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.Line{
+    border-left: 2px solid red;
+    height: fit-content;
+    margin-left: 40px;
+    border-right: 1px solid red;
+    margin-right: 40px;
+}
+
+div.Line2{
+    border: 1px solid rgb(255, 0, 0);
+    margin-top: 30px;
+}
+
+h2{
+   color: black;
+}
+
+h2 span{
+    background-color: red;
+}
+
+a:link{
+    color: red;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    color: red;
+}
+
+a:active{
+    color: red;
+}
+
+div.a{
+    line-height: 95%;
+    word-wrap: break-word;
+}
+
+div.b{
+    line-height: 95%;
+    word-wrap: break-word;
+}
+
+div.c{
+    line-height: 95%;
+    word-wrap: break-word;
+}
+
+div.d{
+    line-height: 95%;
+    word-wrap: break-word;
+}
+
+div.e{
+    line-height: 95%;
+    word-wrap: break-word;
+}
+
+div.f{
+    line-height: 95%;
+    word-wrap: break-word;
+}
+
+div.g{
+    line-height: 95%;
+    word-wrap: break-word;
+}
