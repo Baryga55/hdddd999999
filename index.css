@@ -10,6 +10,11 @@ body {
     color: red;
 }
 
+p.project{
+    line-height: 95%;
+    word-wrap: break-word;
+}
+
 footer{
     margin-top: 30px;
 }
@@ -91,6 +96,31 @@ div.f{
 }
 
 div.g{
+    line-height: 95%;
+    word-wrap: break-word;
+}
+
+div.h{
+    line-height: 95%;
+    word-wrap: break-word;
+}
+
+div.j{
+    line-height: 95%;
+    word-wrap: break-word;
+}
+
+div.k{
+    line-height: 95%;
+    word-wrap: break-word;
+}
+
+div.l{
+    line-height: 95%;
+    word-wrap: break-word;
+}
+
+div.m{
     line-height: 95%;
     word-wrap: break-word;
 }
